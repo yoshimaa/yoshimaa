@@ -10,7 +10,9 @@ Top Languages by Commit
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshimaa&theme=transparent)
 -->
 
-<!-- Stats -->
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoshimaa&theme=dark&hide_border=true&border_radius=32&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=550)](https://git.io/streak-stats)
+
+<!-- Stats, Commits (UTC+8) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yoshimaa&theme=tokyonight)
-<!-- Commits (UTC+8) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yoshimaa&theme=tokyonight&utcOffset=8)
